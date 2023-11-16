@@ -1,8 +1,7 @@
 # Classification of electrical stability of power grid networks
  ### Meijuan Xia
 ## Dataset comes from https://archive.ics.uci.edu/ml/datasets/Electrical+Grid+Stability+Simulated+Data+#
-# ---------------------------------------------------------------------------------
-
+# -----------------------------------------------------
 ## Use different classification algorithms to classify the status of electricity:stable or unstable
   - Logistic Regression
   - Naive Bayes
